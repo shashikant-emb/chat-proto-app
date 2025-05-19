@@ -11,6 +11,10 @@ This project is an end-to-end **chat prototype** demonstrating:
 ▶️ **Watch the demo video**:  
 [Click here to view](https://crewaretechnologies157-my.sharepoint.com/:v:/g/personal/shashikant_yadav_creware_asia/ESjO69EMYoBGlc19oGiBa18BNdLjEuQXpzDc1kfTgnLrYA?e=eM4t9V&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+▶️ **Live Link**:  
+[Click here to view]
+(https://chat-proto-app.vercel.app/)
+
 ## ✨ Features
 
 ### 🧩 Chat Widget (User Interface)
